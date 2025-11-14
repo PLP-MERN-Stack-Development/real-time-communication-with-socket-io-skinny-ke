@@ -185,6 +185,11 @@ Works seamlessly on mobile devices.
 - **Build command**: `npm run build`
 - **Environment variables**: Set `VITE_SOCKET_URL` for production server
 
+## 🌐 Live Demo
+
+- **Client**: https://real-time-communication-with-socket-indol.vercel.app/
+- **Server**: https://real-time-communication-with-socket-io-nhsw.onrender.com/
+
 ## 🧪 Testing
 
 ### Manual Testing Checklist
